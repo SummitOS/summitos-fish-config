@@ -1,0 +1,1 @@
+# summitos-fish-config
